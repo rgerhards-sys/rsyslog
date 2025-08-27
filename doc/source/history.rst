@@ -1,4 +1,4 @@
-RSyslog - History
+RSyslog - Historyx
 =================
 
 Rsyslog is a GPL-ed, enhanced syslogd. Among others, it offers support
