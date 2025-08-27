@@ -1,4 +1,4 @@
-RSyslog - Features
+RSyslog - Featuresx
 ==================
 
 **This page lists both current features as well as those being
